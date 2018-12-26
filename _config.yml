@@ -47,9 +47,9 @@ resume_section_associations:    true
 resume_social_links:
   resume_github_url:            "https://github.com/hosseinsadr/"
   resume_twitter_url:           "https://twitter.com/Sadr_ir"
-  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/hossein-sadr-1b964a49/"
   resume_instagram_url:         "https://www.instagram.com/hosseinsadr_/"
-  resume_website_url:           "https://hosseinsadr.github.io/"
+  resume_website_url:           "https://scholar.google.com/citations?user=ohcVchoAAAAJ&hl=en"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
