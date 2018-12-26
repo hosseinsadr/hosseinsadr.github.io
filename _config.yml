@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Dr Hossein Sadr"
-resume_title:                   "Ph.D Candidate, Department of Computer Engineering"
+resume_title:                   "About me"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sadr@qiau.ac.ir"
@@ -23,7 +23,7 @@ resume_contact_address:         "Address"
 resume_header_contact_info:     "Address • sadr@qiau.ac.ir"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Ph.D Candidate, Department of Computer Engineering<br><b>Telegram Channel : </b><a href="https://t.me/Sadr_ir">@Sadr_ir</a></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +45,12 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_github_url:            "https://github.com/hosseinsadr/"
+  resume_twitter_url:           "https://twitter.com/Sadr_ir"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_instagram_url:         "https://www.instagram.com/hosseinsadr_/"
+  resume_website_url:           "https://hosseinsadr.github.io/"
+  #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
