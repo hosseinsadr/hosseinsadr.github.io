@@ -8,9 +8,9 @@
   summary: <ul class="resume-item-list"><li>Guilan University, Faculty of Engineering.</li><li>Islamic Azad University, Parand (Tehran) branch.</li><li>Islamic Azad University, Rasht branch.</li><li>Islamic Azad University, Lahijan branch.</li><li>Mehrastan University of Astane-guilan.</li><li>Science & Culture University (USC).</li><li>Ayandegan University of Tonekabon,(Master of Science).</li><li>Rajaei College of Lahijan-guilan.</li><li>University of Applied Sciences University of Guilan.</li><li>Payame Noor University (PNU) of Guilan.</li></ul>
 
 # Other
-- company: Other
+- company: 
   position: 
-  duration: 2014
+  duration: Other
   summary: <ul class="resume-item-list"><li>Teaching Islamic Azad university employees, From 2014.</li><li>Teaching ICDL courses to school teachers, From 2014.</li></ul>
 
 # Taught topics
