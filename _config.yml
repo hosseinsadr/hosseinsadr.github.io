@@ -46,6 +46,7 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/hosseinsadr/"
+   resume_gmail_url:            "https://github.com/hosseinsadr/"
   resume_twitter_url:           "https://twitter.com/Sadr_ir"
   resume_linkedin_url:          "https://www.linkedin.com/in/hossein-sadr-1b964a49/"
   resume_instagram_url:         "https://www.instagram.com/hosseinsadr_/"
