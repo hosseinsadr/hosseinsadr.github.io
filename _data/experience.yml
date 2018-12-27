@@ -11,11 +11,11 @@
   duration: 2014
   summary: <ul class="resume-item-list"><li>Teaching Islamic Azad university employees, From 2014.</li><li>Teaching ICDL courses to school teachers, From 2014.</li></ul>
 
-# Other
-- company: Other
+# Taught topics
+- company: Taught topics
   position: 
-  duration: 2014
-  summary: <ul class="resume-item-list"><li>Teaching Islamic Azad university employees, From 2014.</li><li>Teaching ICDL courses to school teachers, From 2014.</li></ul>
+  duration: 
+  summary: <ul class="resume-item-list"><li><b>Graduate Courses:</b> Advanced Software Engineering, Advanced Database, Natural Language Processing, Information Retrival, Text Mining, Machin Learning, Data Mining, Social network.</li><li><b>Bachelor Courses:</b> Software Engineering, Database, Data structure, Algorithm design.</li></ul>
 
   
 # Communications Coordinator
