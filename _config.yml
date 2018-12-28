@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Hossein Sadr"
-resume_title:                   "About me"
+resume_title:                   "About"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sadr@qiau.ac.ir"
@@ -46,7 +46,7 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/hosseinsadr/"
-   resume_gmail_url:            "https://github.com/hosseinsadr/"
+   resume_google_url:            "https://github.com/hosseinsadr/"
   resume_twitter_url:           "https://twitter.com/Sadr_ir"
   resume_linkedin_url:          "https://www.linkedin.com/in/hossein-sadr-1b964a49/"
   resume_instagram_url:         "https://www.instagram.com/hosseinsadr_/"
