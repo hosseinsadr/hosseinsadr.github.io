@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Hossein Sadr"
-resume_title:                   "About"
+resume_title:                   "About Me"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sadr@qiau.ac.ir"
