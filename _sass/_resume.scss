@@ -71,7 +71,7 @@
 
   .executive-summary {
 	text-align: justify;
-    @include media_larger_than_mobile { font-size: 1.125rem; }
+    @include media_larger_than_mobile { font-size: 16px; }
   }
   
   .executive-summary h4 {
