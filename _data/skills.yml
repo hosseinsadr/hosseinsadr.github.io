@@ -1,12 +1,33 @@
 # Skills
-# Programming
-- skill: Programming
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Programing languages
+- skill: Programing languages
+  description: <ul class="resume-item-list"><li>TS: Web Applications Development with Microsoft .NET Framework 4.7</li><li>TS: Accessing Data with Microsoft .NET Framework 4.7</li><li>TS: Windows Communication Foundation Development with Microsoft .NET Framework 4.7</li><li>C#.NET2015</li><li>VB.NET2015,VB6</li><li>Java (NetBeans IDE)</li><li>Payton (Paytorch, Tensorflow, Keras)</li></ul>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Machine Learning Tools
+- skill: Machine Learning Tools
+  description: <ul class="resume-item-list"><li>Scikit-Learn, Weka, GenSim, GloVe, Mallet</li></ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Deep Learning Tools
+- skill: Deep Learning Tools
+  description: <ul class="resume-item-list"><li>TensorFlow, Theano</li></ul>
+
+# Information Retrieval Tools
+- skill: Information Retrieval Tools
+  description: <ul class="resume-item-list"><li>Lemur, Indri, Terrier, Apache (Solar, Nutch, Lucene)</li></ul>
+
+# Natural Language Processing Tools
+- skill: Information Retrieval Tools
+  description: <ul class="resume-item-list"><li>S-Space, Apache (Tika, Jena), KEA, NLTK</li></ul>
+
+# Web and Database Design
+- skill: Web and Database Design
+  description: <ul class="resume-item-list"><li>HTML</li><li>ASP.NET 4.0</li><li>SQL Server 2012 & 2008 (Design & DBA).</li><li>Neo4j, MySQL, MongoDB</li><li>Oracel</li><li>M.S Access 2016</li><li>System analysis and skills in the use of design methods for object-oriented information systems (UML).</li><li>Rational Rose 7.0, Power Designer, UML Paradiam</li></ul>
+
+# Other
+- skill: Other
+  description: <ul class="resume-item-list"><li>Windows Server 2008</li><li>Adobe Photoshop Cs 6</li><li>Microsoft Office 2016</li><li>Endnote</li><li>Latex</li></ul>
+
+# Language Skills
+- skill: Language Skills
+  description: <ul class="resume-item-list"><li>Farsi: Mother tongue</li><li>English: Intermediate</li><li>EPT degree with score of 65 on 100 Scale, 2017</li><li>Tolimo degree with score of 485 on 700 Scale, 2017</li></ul>
+
