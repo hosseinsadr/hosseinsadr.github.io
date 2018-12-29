@@ -1,7 +1,7 @@
 # Skills
 # Programing languages
 - skill: Programing languages
-  description: <ul class="resume-item-list"><li>TS: Web Applications Development with Microsoft .NET Framework 4.7</li><li>TS: Accessing Data with Microsoft .NET Framework 4.7</li><li>TS: Windows Communication Foundation Development with Microsoft .NET Framework 4.7</li><li>C#.NET2015</li><li>VB.NET2015,VB6</li><li>Java (NetBeans IDE)</li><li>Payton (Paytorch, Tensorflow, Keras)</li></ul>
+  description: <ul class="resume-item-list"><li>Web Applications Development with Microsoft .NET Framework 4.7</li><li>Accessing Data with Microsoft .NET Framework 4.7</li><li>Windows Communication Foundation Development with Microsoft .NET Framework 4.7</li><li>C#.NET2015</li><li>VB.NET2015,VB6</li><li>Java (NetBeans IDE)</li><li>Payton (Paytorch, Tensorflow, Keras)</li></ul>
 
 # Machine Learning Tools
 - skill: Machine Learning Tools
