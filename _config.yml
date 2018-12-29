@@ -1,5 +1,5 @@
 # Site settings
-title: "Hossein Sadr"
+title: "Dr.Hossein Sadr"
 description: "Ph.D of Computer"
 
 # Build settings
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Hossein Sadr"
-resume_title:                   "About me"
+resume_title:                   "About"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sadr@qiau.ac.ir"
@@ -23,7 +23,11 @@ resume_contact_address:         "Address"
 resume_header_contact_info:     "Address • sadr@qiau.ac.ir"
 display_header_contact_info:    "false"
 
+<<<<<<< HEAD
 resume_header_intro: "<p>Learning from large scale textual corpora and its applications in Information Retrieval and Natural Language Processing are my favorite research interests. It's an emerging hot topic in the intersection of IR, NLP and ML. In particular, I am interested in deep learning models that go beyond the typical search engines to teach them how to understand text documents and user's information needs in order to search smarter. I am also interested in understanding how current models scale to very large collections, such as WWW. Learning conceptual representation of textual documents is a follow up research work. Currently, I specialize in the area of sequence to sequence models. I am interested in the following topics:</p>"
+=======
+resume_header_intro: "<p>Ph.D of Computer Engineering<br><b>Telegram Channel : </b><a href='https://t.me/Sadr_ir'>@Sadr_ir</a></p>"
+>>>>>>> 8b13c18ff00d160f45ebd1370ef4a192559ac401
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -46,6 +50,7 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/hosseinsadr/"
+   resume_google_url:            "https://github.com/hosseinsadr/"
   resume_twitter_url:           "https://twitter.com/Sadr_ir"
   resume_linkedin_url:          "https://www.linkedin.com/in/hossein-sadr-1b964a49/"
   resume_instagram_url:         "https://www.instagram.com/hosseinsadr_/"
