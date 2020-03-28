@@ -4,7 +4,7 @@
 # Book
 - project: Book
   # url: "#"
-  description: <ul class="resume-item-list"><li>Hossein  Sadr, "Python for Machine Learning", First Edition. Nas Publication, 2020, Iranian ISSN Nubmer: (Under Publish)</li></ul>
+  description: <ul class="resume-item-list"><li>Hossein  Sadr, "Python for Machine Learning", First Edition. Nas Publication, 2020, Iranian ISSN Nubmer (Under Publish)</li></ul>
 
 # Journal Papers
 - project: Journal Papers
@@ -20,4 +20,3 @@
 - project: Research Interests
   # url: "#"
   description: <ul class="resume-item-list"><li>Natural Language Processing (NLP)</li><li>Text Mining</li><li>Information Retrieval</li><li>Machine Learning</li><li>Deep Learning</li><li>Data Science</li></ul>
-  
