@@ -50,8 +50,8 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/hossein-sadr-1b964a49/"
   resume_instagram_url:         "https://www.instagram.com/Sadr_ir/"
   resume_website_url:           "https://scholar.google.com/citations?user=ohcVchoAAAAJ&hl=en"
-  resume_medium_url:            "https://https://www.researchgate.net/profile/Hossein_Sadr2"
-  resume_researchgate_url:      "https://https://www.researchgate.net/profile/Hossein_Sadr2"
+  resume_medium_url:            "https://researchgate.net/profile/Hossein_Sadr2"
+  #resume_researchgate_url:      "https://"
 resume_print_social_links:      true
 
 # Design settings
