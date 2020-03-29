@@ -1,8 +1,18 @@
 # Degree
+- degree: Research Job in Deep Learning. 
+  uni: University of Strathclyde, Glasgow
+  year: 2020 &mdash; 2023
+  summary: <pdir="rtl" align="justify"> Specialization in Deep Learning, Dissertation topic; Natural Language Processing using Deep Learning, Under Supervision of  Dr Abdullah Gök.</p>
+
+  #awards:
+    #- award: Summa Cumme Laude graduate
+  
+############
+# Degree
 - degree: Ph.D. degree in software Computer engineering, Qazvin(& Rasht), Iran. 
   uni: Islamic Azad University, Qazvin(& Rasht) Branch
   year: 2014 &mdash; 2019
-  summary: <pdir="rtl" align="justify"> Efficient Method Based on Combination of Deep Learning Models for Sentiment Analysis, Under Supervision of  Dr. MirMohsen Pedram (Full Professor, Kharazmi University ,Tehran) and Prof.Mohammad Teshnelab (Full Professor, Khaje Nasir Toosi University of Technology, Tehran).</p>
+  summary: <pdir="rtl" align="justify"> Specialization in Deep Learning, Dissertation topic;Efficient Method Based on Combination of Deep Learning Models for Sentiment Analysis, Under Supervision of  Dr. MirMohsen Pedram (Full Professor, Kharazmi University ,Tehran) and Prof.Mohammad Teshnelab (Full Professor, Khaje Nasir Toosi University of Technology, Tehran).</p>
 
   #awards:
     #- award: Summa Cumme Laude graduate
