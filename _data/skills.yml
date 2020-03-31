@@ -9,14 +9,14 @@
 
 # Deep Learning Tools
 - skill: Deep Learning Tools
-  description: <ul class="resume-item-list"><li>TensorFlow, Theano</li></ul>
+  description: <ul class="resume-item-list"><li>TensorFlow, Theano, Paytorch, Keras</li></ul>
 
 # Information Retrieval Tools
 - skill: Information Retrieval Tools
   description: <ul class="resume-item-list"><li>Lemur, Indri, Terrier, Apache (Solar, Nutch, Lucene)</li></ul>
 
 # Natural Language Processing Tools
-- skill: Information Retrieval Tools
+- skill: Natural Language Processing Tools
   description: <ul class="resume-item-list"><li>S-Space, Apache (Tika, Jena), KEA, NLTK</li></ul>
 
 # Web and Database Design
